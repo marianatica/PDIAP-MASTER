@@ -1,0 +1,9 @@
+/node_modules/
+/public/bower_components/
+/public/relatorios/
+/resources/
+/backups/
+/relatorios/
+/nbproject/private/
+.env
+*.pdf
